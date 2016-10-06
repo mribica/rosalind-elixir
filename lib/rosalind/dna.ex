@@ -12,6 +12,7 @@ defmodule Rosalind.Dna do
 
   def description do
     """
+    \n\n
     # Counting DNA Nucleotides
     Url: http://rosalind.info/problems/dna/
     Given: A DNA string ss of length at most 1000 nt.
