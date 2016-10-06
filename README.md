@@ -1,20 +1,7 @@
 # Rosalind
 
-**TODO: Add description**
+[Rosalind](http://rosalind.info/problems/list-view/) is a platform for learning bioinformatics and programming through problem solving. This repository is collection of solutions written in [Elixir](http://elixir-lang.org/)
 
-## Installation
+## Run
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add rosalind to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:rosalind, "~> 0.0.1"}]
-        end
-
-  2. Ensure rosalind is started before your application:
-
-        def application do
-          [applications: [:rosalind]]
-        end
-
+Run `mix test` to see current solutions.
